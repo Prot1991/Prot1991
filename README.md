@@ -1,5 +1,3 @@
-ping 
-forcesafesearch.google.com.
 
 
 
